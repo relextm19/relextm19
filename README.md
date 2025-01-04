@@ -2,9 +2,12 @@
 
 ## 🌟 About Me
 
-- **Proficient in:** Python, C++, HTML & CSS
-- **Comfortable with:** , JavaScript, C#
-- **Learning:** Go
+| **Proficiency Level** | **Languages/Technologies**                                                                                                         |
+|-----------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| **Confident**     | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Comfortable**  | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Learning**          | ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)                                                                                 |
+
 - **Interests:** Web app development, Game development
 
 ## 🔭 Current Focus
@@ -30,10 +33,11 @@ Currently, I'm exploring:
 
 ## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=relextm19&layout=compact&theme=radical)
-![LeetCode Stats](https://leetcard.jacoblin.cool/relextm19?theme=dark&font=Karma)
+<div style="display: flex; justify-content: space-between; align-items: center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=relextm19&theme=dark&layout=donut&hide_border=true" style="width: 49%; height: 200px" alt="Top Languages">
+    <img src="https://leetcard.jacoblin.cool/relextm19?theme=dark&font=Karma" style="width: 49%; height: 200px" alt="LeetCode Stats">
+</div>
 
-## 💬 Let's Connect
 - 📧 Email: [relextm19@gmail.com](mailto:relextm19@gmail.com)
 
 Thanks for stopping by! 😄
