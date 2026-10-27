@@ -43,8 +43,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite3 logo" />
   <img width="12" />
 
-  <!-- Vue -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js logo" />
+  <!-- React -->
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height=40/>
+  <img width="12" />
+
 </div>
 
 ###
