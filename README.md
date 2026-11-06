@@ -1,12 +1,12 @@
-<div align="center">
-  <a href="https://www.linkedin.com/in/your-username" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="LinkedIn logo" />
-  </a>
-</div>
 
 ###
 
 <h1 align="center">Hey there 👋</h1>
+<div align="center">
+  <a href="https://www.linkedin.com/in/mateusz-kie%C5%82b-41476b2b1/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="LinkedIn logo" />
+  </a>
+</div>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm currently learning Webdev mainly focusing on backend</p>
+<p align="left">I'm currently learning Webdev and Mobile App Development</p>
 
 ###
 
